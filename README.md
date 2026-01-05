@@ -1,4 +1,4 @@
-# CRM-Analytics
+# CRM-Analytics-Dashboard
  
 ## 📖 Overview  
 CRM Analytics is a data-driven solution for analyzing customer behavior, optimizing sales performance, and evaluating marketing strategies. 
